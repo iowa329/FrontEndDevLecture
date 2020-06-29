@@ -4,6 +4,7 @@
     <a href="page2.html">페이지 2</a> <br />
     <a href="page3.html">페이지 3</a> <br />
     <a href="page4.html">페이지 4</a> <br />
+    <a href="page5.html">페이지 5</a> <br />
   </div>
 </template>
 

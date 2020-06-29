@@ -28,6 +28,11 @@ module.exports = {
       entry: 'src/pages/page4/main.js',
       template: 'public/index.html',
       filename: 'page4.html'
+    },
+    page5: {
+      entry: 'src/pages/page5/main.js',
+      template: 'public/index.html',
+      filename: 'page5.html'
     }
   }
 }
