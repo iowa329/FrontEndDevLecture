@@ -14,7 +14,7 @@
     "@fortawesome/vue-fontawesome": "^0.1.10",
     "core-js": "^3.6.5",
     "firebase": "^7.15.5",
-    "moment": "^2.27.0",
+    "moment": "^2.29.4",
     "vue": "^2.6.11",
     "vue-router": "^3.3.4"
   },
